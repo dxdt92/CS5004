@@ -1,7 +1,7 @@
 /**
  * Represents a three-dimensional vector with x, y, and z components.
  * Provides methods for vector arithmetic, normalization, magnitude calculation,
- * and angle computation.
+ * and angle computation. Derrick
  */
 public class Vector3D {
   private final double x;
