@@ -1,9 +1,8 @@
 /**
  * Represents a three-dimensional vector with x, y, and z components.
  * Provides methods for vector arithmetic, normalization, magnitude calculation,
- * and angle computation. by Derrick
+ * and angle computation.
  */
-
 public class Vector3D {
   private final double x;
   private final double y;
@@ -16,7 +15,6 @@ public class Vector3D {
    * @param y the y-component of the vector
    * @param z the z-component of the vector
    */
-
   public Vector3D(double x, double y, double z) {
     this.x = x;
     this.y = y;
